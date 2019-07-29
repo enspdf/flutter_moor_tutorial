@@ -7,7 +7,7 @@ packages:
       name: analyzer
       url: "https://pub.dartlang.org"
     source: hosted
-    version: "0.36.4"
+    version: "0.37.0"
   args:
     dependency: transitive
     description:
@@ -28,14 +28,14 @@ packages:
       name: boolean_selector
       url: "https://pub.dartlang.org"
     source: hosted
-    version: "1.0.5"
+    version: "1.0.4"
   build:
     dependency: transitive
     description:
       name: build
       url: "https://pub.dartlang.org"
     source: hosted
-    version: "1.1.4"
+    version: "1.1.5"
   build_config:
     dependency: transitive
     description:
@@ -49,21 +49,21 @@ packages:
       name: build_daemon
       url: "https://pub.dartlang.org"
     source: hosted
-    version: "1.1.0"
+    version: "2.0.0"
   build_resolvers:
     dependency: transitive
     description:
       name: build_resolvers
       url: "https://pub.dartlang.org"
     source: hosted
-    version: "1.0.5"
+    version: "1.0.6"
   build_runner:
     dependency: "direct dev"
     description:
       name: build_runner
       url: "https://pub.dartlang.org"
     source: hosted
-    version: "1.6.1"
+    version: "1.6.4"
   build_runner_core:
     dependency: transitive
     description:
@@ -84,7 +84,7 @@ packages:
       name: built_value
       url: "https://pub.dartlang.org"
     source: hosted
-    version: "6.6.0"
+    version: "6.7.0"
   charcode:
     dependency: transitive
     description:
@@ -126,7 +126,7 @@ packages:
       name: csslib
       url: "https://pub.dartlang.org"
     source: hosted
-    version: "0.16.0"
+    version: "0.16.1"
   cupertino_icons:
     dependency: "direct main"
     description:
@@ -140,7 +140,7 @@ packages:
       name: dart_style
       url: "https://pub.dartlang.org"
     source: hosted
-    version: "1.2.8"
+    version: "1.2.9"
   fixnum:
     dependency: transitive
     description:
@@ -171,7 +171,7 @@ packages:
       name: front_end
       url: "https://pub.dartlang.org"
     source: hosted
-    version: "0.1.19"
+    version: "0.1.20"
   glob:
     dependency: transitive
     description:
@@ -241,7 +241,7 @@ packages:
       name: kernel
       url: "https://pub.dartlang.org"
     source: hosted
-    version: "0.3.19"
+    version: "0.3.20"
   logging:
     dependency: transitive
     description:
@@ -271,26 +271,26 @@ packages:
     source: hosted
     version: "0.9.6+3"
   moor:
-    dependency: transitive
+    dependency: "direct main"
     description:
       name: moor
       url: "https://pub.dartlang.org"
     source: hosted
-    version: "1.5.1"
+    version: "1.6.0"
   moor_flutter:
     dependency: "direct main"
     description:
       name: moor_flutter
       url: "https://pub.dartlang.org"
     source: hosted
-    version: "1.5.0"
+    version: "1.6.0"
   moor_generator:
     dependency: "direct dev"
     description:
       name: moor_generator
       url: "https://pub.dartlang.org"
     source: hosted
-    version: "1.5.0"
+    version: "1.6.0+2"
   package_config:
     dependency: transitive
     description:
@@ -386,7 +386,7 @@ packages:
       name: source_gen
       url: "https://pub.dartlang.org"
     source: hosted
-    version: "0.9.4+2"
+    version: "0.9.4+3"
   source_span:
     dependency: transitive
     description:
@@ -400,14 +400,14 @@ packages:
       name: sqflite
       url: "https://pub.dartlang.org"
     source: hosted
-    version: "1.1.6+1"
+    version: "1.1.6+3"
   sqlparser:
     dependency: transitive
     description:
       name: sqlparser
       url: "https://pub.dartlang.org"
     source: hosted
-    version: "0.1.1"
+    version: "0.1.2"
   stack_trace:
     dependency: transitive
     description:
@@ -484,14 +484,14 @@ packages:
       name: watcher
       url: "https://pub.dartlang.org"
     source: hosted
-    version: "0.9.7+10"
+    version: "0.9.7+12"
   web_socket_channel:
     dependency: transitive
     description:
       name: web_socket_channel
       url: "https://pub.dartlang.org"
     source: hosted
-    version: "1.0.13"
+    version: "1.0.14"
   yaml:
     dependency: transitive
     description:
